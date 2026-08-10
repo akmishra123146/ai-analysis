@@ -1,0 +1,12 @@
+{
+  "/ai-assistant/page": "app/ai-assistant/page.js",
+  "/admin/analytics/page": "app/admin/analytics/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/page": "app/page.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/contacts/route": "app/api/contacts/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/contacts/[id]/route": "app/api/contacts/[id]/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/contacts/[id]/page": "app/contacts/[id]/page.js"
+}

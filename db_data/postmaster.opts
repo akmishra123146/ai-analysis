@@ -1,0 +1,1 @@
+/usr/local/Cellar/postgresql@14/14.22/bin/postgres "-D" "/Users/asus/Desktop/task/db_data" "-k" "/tmp" "-p" "5434"
